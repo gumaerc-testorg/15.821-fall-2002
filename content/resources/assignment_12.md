@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 88b6f041-8efc-968b-8484-c80bf4dcb15b
 resourcetype: Document
 title: Overview of the Voice of the Customer Project
 uid: 346426e0-5311-7e9f-c911-2e0bde4a6d9c
