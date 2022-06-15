@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a list of recommended texts for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
