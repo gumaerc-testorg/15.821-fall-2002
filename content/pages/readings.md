@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of recommended texts for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6654966d-bd44-76b1-602f-40f99d4dd3c9
 ---
