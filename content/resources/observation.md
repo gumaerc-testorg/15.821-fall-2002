@@ -5,6 +5,7 @@ file: /courses/15-821-listening-to-the-customer-fall-2002/0e5fb90b160875ba3f95a2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Ethnographic observation
 uid: 0e5fb90b-1608-75ba-3f95-a2f7c5b3fd6f
 ---
 Lecture presentation on ethnographic observation.
-

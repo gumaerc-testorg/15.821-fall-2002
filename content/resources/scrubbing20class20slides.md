@@ -5,6 +5,7 @@ file: /courses/15-821-listening-to-the-customer-fall-2002/8b5953a619df7b41085ba4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Scrubbing
 uid: 8b5953a6-19df-7b41-085b-a4994e6be1fd
 ---
 Lecture presentation on scrubbing.
-
