@@ -3,6 +3,7 @@ content_type: resource
 description: Course project on how to conduct a Voice of the Customer, and how to
   incorporate the information that you collect into a professional survey.
 file: /courses/15-821-listening-to-the-customer-fall-2002/346426e053117e9fc9112e0bde4a6d9c_assignment_12.pdf
+file_size: 81176
 file_type: application/pdf
 learning_resource_types:
 - Assignments
