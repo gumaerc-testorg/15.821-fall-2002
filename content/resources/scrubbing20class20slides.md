@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on scrubbing.
 file: /courses/15-821-listening-to-the-customer-fall-2002/8b5953a619df7b41085ba4994e6be1fd_scrubbing20class20slides.pdf
+file_size: 76698
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
