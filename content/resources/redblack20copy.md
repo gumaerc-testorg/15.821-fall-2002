@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on how payments diminish the enjoyment of products
   and services.
-file: /ol-ocw-studio-app/courses/15-821-listening-to-the-customer-fall-2002/5cc52570803b6e1bbea64585acdce779_redblack20copy.pdf
+file: /courses/15-821-listening-to-the-customer-fall-2002/5cc52570803b6e1bbea64585acdce779_redblack20copy.pdf
 file_size: 121964
 file_type: application/pdf
 learning_resource_types:
