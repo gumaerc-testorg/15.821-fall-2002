@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on strategic market measurement.
-file: /courses/15-821-listening-to-the-customer-fall-2002/5b2c2c0eaad2bffeda50ac6c3eeba342_problem20set2002.pdf
+file: /ol-ocw-studio-app/courses/15-821-listening-to-the-customer-fall-2002/5b2c2c0eaad2bffeda50ac6c3eeba342_problem20set2002.pdf
 file_size: 107325
 file_type: application/pdf
 learning_resource_types:
