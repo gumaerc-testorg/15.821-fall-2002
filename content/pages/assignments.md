@@ -29,7 +29,7 @@ Topics
 
 
 There is no assignment for the first class. After the class, you might check out the Inc. article (from 7/1/98) on qualitative methods "The New Market Research," available at:  
-{{% resource_link "90a9c7bc-8f5c-4242-b06a-e3b2a9e2eedc" "http://www.inc.com/magazine/19980701/964.html" %}}
+[http://www.inc.com/magazine/19980701/964.html](http://www.inc.com/magazine/19980701/964.html)
 
 You can also read "Spend a Day in the Life of your Customer".
 
@@ -61,9 +61,9 @@ Guest Lecture: Robert Klein, President, Applied Marketing Science, Inc.
 
 Mr. Klein heads a leading market research company, which has developed a very successful proprietary Voice of the Customer methodology (Vocalyst™). He will discuss this in class. As preparation, read the HBS reprint "Understanding User Needs," and the article "Puritan - Bennett - The Renaissance Spirometry System," which uses Vocalyst™.
 
-Check out their site: {{% resource_link "15d29437-1acc-47c4-958d-1b5e3dcbf258" "http://www.ams-inc.com/" %}}
+Check out their site: [http://www.ams-inc.com/](http://www.ams-inc.com/)
 
-Vocalyst is described at: {{% resource_link "c844f4c5-7a63-4b51-8406-5df07543dd70" "http://www.ams-inc.com/npd/vocalyst.asp" %}}
+Vocalyst is described at: [http://www.ams-inc.com/npd/vocalyst.asp](http://www.ams-inc.com/npd/vocalyst.asp)
 
 Note - the interview guide for the VOC exercise is due in class (1 per team). In preparing your guide, you can take a look at a 'professional quality' interview guide in the course packet (submitted by three former students). Your guide doesn't need to be as elaborate.
 
@@ -97,7 +97,7 @@ The class will be devoted entirely to the discussion of what you have learned in
 
 Guest Lecture: Jim Ferry, President, Boston Innovation Group (or BIG).
 
-Mr. Ferry is one of the leading practitioners of exploratory market research in the Boston area, and is also a professional focus group moderator. You can check out his website at: {{% resource_link "417da366-8838-4b7a-aab1-949179a91c07" "https://www.facebook.com/pages/Boston-Innovation-Group/128336444012128?sk=info&tab=page\_info" %}}
+Mr. Ferry is one of the leading practitioners of exploratory market research in the Boston area, and is also a professional focus group moderator. You can check out his website at: [https://www.facebook.com/pages/Boston-Innovation-Group/128336444012128?sk=info&tab=page\_info](https://www.facebook.com/pages/Boston-Innovation-Group/128336444012128?sk=info&tab=page_info)
 
 We will do several exploratory research/idea generation exercises in class.
 
@@ -133,7 +133,7 @@ For a neat extension of focus group methodology, read "Focus Troops."
 {{< tdopen >}}
 
 
-Observational methods. Read the article "The Future of Marketing Is Looking at You" from _Fast Company_, on its website: {{% resource_link "07887e9e-5c6a-4835-a803-13cf9eb83009" "http://www.fastcompany.com/27683/future-marketing-looking-you" %}}
+Observational methods. Read the article "The Future of Marketing Is Looking at You" from _Fast Company_, on its website: [http://www.fastcompany.com/27683/future-marketing-looking-you](http://www.fastcompany.com/27683/future-marketing-looking-you)
 
 The article describes E-labs, an innovative consulting company that mostly relies on observation and ethographic methods (they have recently been acquired by Sapient).
 
@@ -165,11 +165,11 @@ Project group assignment: Interview transcripts due.
 
 We will look at how the customer's voices can be used to generate ideas and concepts for new products, and view a short video on the IDEO design company.
 
-Read "Spark innovation through empathic design," and skim Voices into Choices Steps 18 and 19. You might also look at articles on IDEO from their website, {{% resource_link "cbdfa93c-554b-4859-988b-b984e914d992" "http://www.ideo.com/" %}}.
+Read "Spark innovation through empathic design," and skim Voices into Choices Steps 18 and 19. You might also look at articles on IDEO from their website, [http://www.ideo.com/](http://www.ideo.com/).
 
 "For a Seller of Innovation, a Bag of Technotricks" _NYTimes_, 2/1/99 (bottom of page).  
 "A success in design minus the capital D " From the _London Times_  
-{{% resource_link "cbdfa93c-554b-4859-988b-b984e914d992" "http://www.ideo.com/" %}}.
+[http://www.ideo.com/](http://www.ideo.com/).
 
 "Innovation for Fun and Profit." _Upside Magazine_, March 10, 2000.
 
